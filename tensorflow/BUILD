@@ -590,7 +590,7 @@ tf_cc_shared_object(
         "//tensorflow/c:c_api",
         "//tensorflow/c/eager:c_api",
         "//tensorflow/cc:cc_ops",
-        "//tensorflow/EasyCTR:assembler_ops",
+        "//tensorflow/easyctr:assembler_ops",
         "//tensorflow/cc:client_session",
         "//tensorflow/cc:scope",
         "//tensorflow/cc/profiler",
