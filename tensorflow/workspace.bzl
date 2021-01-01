@@ -153,7 +153,6 @@ def tf_workspace(path_prefix = "", tf_repo_name = ""):
         strip_prefix = "eigen-eigen-a0d250e79c79",
         urls = [
             "http://mirror.tensorflow.org/bitbucket.org/eigen/eigen/get/a0d250e79c79.tar.gz",
-            "https://bitbucket.org/eigen/eigen/get/a0d250e79c79.tar.gz",
         ],
     )
 
